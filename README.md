@@ -2,9 +2,7 @@
 Php paket geliştirme reposudur.
 
 
-Some basic Git commands are:
+Installation steps:
 ```
-git status
-git add
-git commit
+composer require windofelm/example
 ```
