@@ -1,0 +1,12 @@
+{
+    "name": "windofelm/example",
+    "description": "Bu bir deneme paketidir.",
+    "authors": [
+        {
+            "name": "windofelm",
+            "email": "recep.hidir@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
